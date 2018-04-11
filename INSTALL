@@ -1,0 +1,9 @@
+Building ACEOCOIN
+
+See doc/readme-qt.rst for instructions on building ACEOCOIN QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of ACEOCOIN.
+
+See doc/build-*.txt for instructions on building aceocoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of ACEOCOIN.
